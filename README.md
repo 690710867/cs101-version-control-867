@@ -12,3 +12,8 @@
 ## Technology Interests
 - Tester Development
 - Web Development
+
+## Skills
+- Problem solving
+- Java basics
+- Teamwork
