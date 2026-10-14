@@ -8,3 +8,7 @@
 - Learn Java programming
 - Learn good sleep
 - Learn new language
+
+## Technology Interests
+- Tester Development
+- Web Development
